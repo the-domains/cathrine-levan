@@ -1,0 +1,28 @@
+name: Cathrine Levan
+favicon: null
+layout_spectrum: 0.015519258566200733
+typography_spectrum: 0.9928083757404238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.14952120766974986
+  lightness: 0.13450237247161567
+  saturation: 0.9132795024197549
+  rhythmicContrast: 0.2778409356251359
+purpose: []
